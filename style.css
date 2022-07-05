@@ -69,9 +69,17 @@ h4{
 }
 
 .bajada {
+  margin-top: 2em;
   text-align: center;
 }
 
+.bajada2 {
+  text-align: center;
+  font-family:"Sanchez", Roboto,Arial;
+  font-size: 16pt;
+  text-align: center;
+  color: #808080;
+}
 
 .leaflet.html-widget {
   background: #edf5fc;
