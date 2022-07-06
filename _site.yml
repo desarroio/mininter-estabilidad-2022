@@ -1,7 +1,7 @@
 name: Gonzalo Talavera Forlin
 output_dir: '.'
 navbar:
-  title: "<img id=\"logo\" style=\"width: 240px;\" src=\"images/logo_ambos.png\" />"
+  title: "<img id=\"logo\" style=\"width: 360px;\" src=\"images/logo_ambos.png\" />"
   title2: "<img id=\"logo\" style=\"width: 120px;\" src=\"images/logo_ciudadanxs.png\" />"
   type: inverse
   left:
